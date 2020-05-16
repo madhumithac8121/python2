@@ -1,0 +1,6 @@
+#Python program to print only possitive number
+lists1=[12,-7,5,64,-14]
+for num in lists1:
+    if num>=0:
+      print(num,end=" ")
+      
